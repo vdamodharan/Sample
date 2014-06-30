@@ -1,5 +1,5 @@
 /**
-    @Author  : 2C9 Vignesh
+    @Author  :
     @Purpose : Test class for Contractor Invoices
     
     @Modified for : Used Pay_Rate_2__c instead of Pay_Rate__c in Transaction Object
