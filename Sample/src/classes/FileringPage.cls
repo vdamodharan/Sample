@@ -18,6 +18,8 @@ public FileringPage(ApexPages.StandardController stdController){
 }
 
 public void Save(){
+	
+	/*Sample testing*/
     
     System.debug('@@@ '+testRecord );
     insert testRecord;
