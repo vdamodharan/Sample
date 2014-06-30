@@ -9,7 +9,7 @@ public FileringPage(ApexPages.StandardController stdController){
     
     testRecord = new Pay_Transaction__c();
     
-    //initialize information fieldset
+    //initialize information fieldsets
     testFieldSet= new List<SubSectionWrapper>();
 
     testFieldSet.add(new SubSectionWrapper('Test Information',SObjectType.Pay_Transaction__c.FieldSets.Test.getFields()));
